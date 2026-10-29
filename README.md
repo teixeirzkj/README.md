@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner-github.png" alt="Riquelme Teixeira — Desenvolvimento de Software, Automação e Inteligência Artificial" width="100%">
+</div>
+
 # 💜 Riquelme Teixeira
 
 ### Desenvolvedor em formação · Automação · Inteligência Artificial
